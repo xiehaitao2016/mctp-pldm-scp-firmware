@@ -1,0 +1,12 @@
+[submodule "cmsis"]
+	path = contrib/cmsis/git
+	url = https://github.com/ARM-software/CMSIS_5
+[submodule "contrib/cmock/git"]
+	path = contrib/cmock/git
+	url = https://github.com/ThrowTheSwitch/CMock
+[submodule "module/mctp/libmctp"]
+	path = module/mctp/libmctp
+	url = https://github.com/openbmc/libmctp.git
+[submodule "module/pldm/libpldm"]
+	path = module/pldm/libpldm
+	url = https://github.com/openbmc/libpldm.git
